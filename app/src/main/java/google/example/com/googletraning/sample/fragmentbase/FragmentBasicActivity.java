@@ -1,4 +1,4 @@
-package google.example.com.googletraning.fragmentbase;
+package google.example.com.googletraning.sample.fragmentbase;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;

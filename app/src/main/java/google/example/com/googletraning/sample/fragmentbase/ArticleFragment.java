@@ -20,7 +20,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package google.example.com.googletraning.fragmentbase;
+package google.example.com.googletraning.sample.fragmentbase;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
