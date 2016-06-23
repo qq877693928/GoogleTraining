@@ -4,6 +4,8 @@
 
     <string name="lifecycle_app_name">1.Activity Lifecycle</string>
     <string name="fragmentbasic_app_name">2.FragmentBasic</string>
+    <string name="android6_sample_code">3.Android 6.0 Samples</string>
+    <string name="active_notifications_app_name">1.ActiveNotifications</string>
     <string name="lifecycle_method_list">Lifecycle Method List</string>
     <string name="activity_status">Activity Status</string>
     <string name="dialog_text">Simple Dialog</string>
@@ -44,4 +46,11 @@
 
     <string name="close">Close</string>
     <string name="dialog">Dialog</string>
+
+
+    <!-- ActiveNotifications -->
+    <string name="add_a_notification">Add a notification</string>
+    <string name="active_notifications">Active Notifications: %1$s</string>
+    <string name="update_notification_count">Update count</string>
+    <string name="sample_notification_content">This is a sample notification.</string>
 </resources>

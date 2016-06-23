@@ -39,6 +39,24 @@
                 <category android:name="android.intent.category.SAMPLE_GOOGLE_CODE"/>
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Android6SafariActivity"
+            android:label="@string/android6_sample_code"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.SAMPLE_GOOGLE_CODE"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".sample.android6.activenotifications.ActiveNotificationActivity"
+            android:label="@string/active_notifications_app_name"
+            android:theme="@style/AppTheme.Main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.SAMPLE_ANDROID_6"/>
+            </intent-filter>
+        </activity>
 
     </application>
 
